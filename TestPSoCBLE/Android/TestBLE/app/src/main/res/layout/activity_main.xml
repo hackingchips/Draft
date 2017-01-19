@@ -13,5 +13,14 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Bluetooth BLE testing project for PSoC PROC_BLE." />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="(C) by Chuso Melenas el ídolo de las nenas. 2017."
+        android:id="@+id/textView"
+        android:layout_marginTop="17dp"
+        android:layout_below="@+id/textView3"
+        android:layout_alignParentStart="true" />
 </RelativeLayout>
